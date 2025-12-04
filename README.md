@@ -58,22 +58,11 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akashmaurya94&show_icons=true&theme=react&hide_border=false&bg_color=0D1117&title_color=00E0FF&icon_color=00E0FF" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmaurya94&layout=compact&theme=react&hide_border=false&bg_color=0D1117&title_color=00E0FF&icon_color=00E0FF" height="165" />
-</p>
-
----
-
 <p align="center">
   <img src="https://i.imgur.com/vz9WkW1.gif" width="260" />
 </p>
 
 
-
----
 
 ## 👨‍💻 Developer Mode
 
