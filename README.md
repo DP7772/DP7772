@@ -56,6 +56,28 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,c,git,github,vscode&theme=light" height="85"/>
 </p>
 
+## 🔥 Coding Journey in Motion
+
+<p align="center">
+  <!-- Animated Snake (Always Works) -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" 
+       alt="snake animation" />
+</p>
+
+<p align="center">
+  <!-- Animated Matrix Code Rain -->
+  <img src="https://i.imgur.com/2LSMCmI.gif" width="500" alt="Matrix animation" />
+</p>
+
+<p align="center">
+  <!-- Rotating React Logo Animation -->
+  <img src="https://raw.githubusercontent.com/gururise/React-icons-animated/master/dist/react.svg" width="120" />
+</p>
+
+<p align="center">
+  <!-- Animated Neon Line Divider -->
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="3px" />
+</p>
 
 
 
