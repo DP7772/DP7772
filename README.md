@@ -66,10 +66,9 @@
 
 ## ✨ Typing Animation Example
 
-<br><br><br> <!-- Adds vertical spacing -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=61dafb&center=true&width=600&lines=ITZ+AKASH;React+Developer;Next.js+Learner" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61dafb&center=true&width=600&lines=ITZ+AKASH;Learner" alt="Typing Animation"/>
 </p>
 
 
