@@ -3,8 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkashMaurya&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashMaurya&layout=compact&theme=tokyonight" height="165" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:fc00ff&height=200&section=header&text=Welcome+to+My+GitHub&fontSize=40&fontColor=ffffff" />
+
 </p>
 
 
