@@ -65,54 +65,9 @@
 </p>
 
 
-## ✨ Cosmic Tech Playground  
-### _Where imagination meets physics, space, and creativity._
+<!-- 6. Digital Matrix Rain -->
+<p align="center"><img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="520" alt="Matrix Rain" /></p><p align="center"><sub>💻 Code raining down like cosmic data streams.</sub></p>
 
-<!-- 1. Hologram Scanner (Sci-Fi animation) -->
-<p align="center">
-  <img src="https://lottie.host/2e0f12de-fca0-4fd3-861e-83b892b6ee3b/2EDPVn3hRq.gif" width="300" alt="Hologram Scanner" />
-</p>
-<p align="center"><sub>🛸 Your ideas… holographically scanned into reality.</sub></p>
-
----
-
-<!-- 2. Quantum Rings Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohit-chouhan/Animated-GIFs/main/abstract/quantum-rings.gif" width="480" alt="Quantum Rings Animation" />
-</p>
-<p align="center"><sub>⚛ Quantum rings — inspiration collapsing into code.</sub></p>
-
----
-
-<!-- 3. Space Warp Tunnel -->
-<p align="center">
-  <img src="https://media.giphy.com/media/q5yPoA7ZxXn3e/giphy.gif" width="350" alt="Warp Tunnel" />
-</p>
-<p align="center"><sub>🌌 Jumping between thoughts faster than light.</sub></p>
-
----
-
-<!-- 4. Futuristic Circuit Pulses -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohit-chouhan/Animated-GIFs/main/circuit/neon-circuit-pulse.gif" width="500" alt="Neon Circuit Pulse" />
-</p>
-<p align="center"><sub>🔋 Every pulse = one more idea powering up.</sub></p>
-
----
-
-<!-- 5. Floating Crystal Rotation -->
-<p align="center">
-  <img src="https://assets1.lottiefiles.com/packages/lf20_HpFqiS.json.gif" width="260" alt="Crystal Rotation" />
-</p>
-<p align="center"><sub>💎 Creativity spinning like a cosmic artifact.</sub></p>
-
----
-
-<!-- 6. Cyber Wave Loop (Next.js aesthetic) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohit-chouhan/Animated-GIFs/main/waves/cyber-wave.gif" width="520" alt="Cyber Wave" />
-</p>
-<p align="center"><sub>🌊 Riding the wave of infinite possibilities.</sub></p>
 
 
 
