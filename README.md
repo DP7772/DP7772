@@ -68,32 +68,32 @@
 ## ⚛️ Physics Playground
 
 <p align="center">
-  <em>Random motion, physics vibes, and playful experiments — because code and physics love to dance.</em>
+  <em>Random physics + motion — because creativity follows no rules.</em>
 </p>
 
-<!-- Orbiting planet (represents ideas orbiting into code) -->
+<!-- Orbit Simulation (planet orbit animation) -->
 <p align="center">
-  <img src="https://i.imgur.com/vz9WkW1.gif" width="320" alt="Orbiting planet animation" />
+  <img src="https://raw.githubusercontent.com/rohit-chouhan/Animated-GIFs/main/space/planet-orbit.gif" width="300" alt="Orbit Animation" />
 </p>
-<p align="center"><sub>🌍 Orbiting ideas — build, iterate, repeat.</sub></p>
+<p align="center"><sub>🌍 Ideas orbit until they become reality.</sub></p>
 
-<!-- Particle field (represents creativity & emergent behavior) -->
+<!-- Particle Wave Animation -->
 <p align="center">
-  <img src="https://i.imgur.com/TeQXWj2.gif" width="520" alt="Particle field animation" />
+  <img src="https://raw.githubusercontent.com/rohit-chouhan/Animated-GIFs/main/particles/particle-wave.gif" width="500" alt="Particle Wave" />
 </p>
-<p align="center"><sub>✨ Particle playground — tiny interactions building something huge.</sub></p>
+<p align="center"><sub>✨ Particles flowing — like thoughts forming code.</sub></p>
 
-<!-- Rocket launch (represents projects taking off) -->
+<!-- Rocket Launch (clean, HD) -->
 <p align="center">
-  <img src="https://i.imgur.com/3i1QFdz.gif" width="260" alt="Rocket launch animation" />
+  <img src="https://media.giphy.com/media/zoYtFf0vE8Z8w/giphy.gif" width="260" alt="Rocket Launch" />
 </p>
-<p align="center"><sub>🚀 Launch mode — ship your experiments to the world.</sub></p>
+<p align="center"><sub>🚀 Every idea deserves a launch moment.</sub></p>
 
-<!-- Pulsing energy circle (represents focus & rhythm) -->
+<!-- Fluid Simulation Loop (hypnotic physics) -->
 <p align="center">
-  <img src="https://i.imgur.com/NSu1H3x.gif" width="160" alt="Pulsing energy animation" />
+  <img src="https://assets1.lottiefiles.com/private_files/lf30_editor_bx2yq8.json.gif" width="200" alt="Energy Pulse" />
 </p>
-<p align="center"><sub>🔆 Pulse — consistency and momentum over time.</sub></p>
+<p align="center"><sub>🔆 Motion. Energy. Focus. Repeat.</sub></p>
 
 
 ## 🚀 Featured Projects
