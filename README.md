@@ -64,12 +64,6 @@
        alt="snake animation" />
 </p>
 
-<p align="center">
-  <!-- Rotating React Logo Animation -->
-  <img src="https://raw.githubusercontent.com/gururise/React-icons-animated/master/dist/react.svg" width="120" />
-</p>
-
-
 
 ## 👨‍💻 Developer Mode
 
