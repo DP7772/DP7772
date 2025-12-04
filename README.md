@@ -74,11 +74,6 @@
   <img src="https://raw.githubusercontent.com/gururise/React-icons-animated/master/dist/react.svg" width="120" />
 </p>
 
-<p align="center">
-  <!-- Animated Neon Line Divider -->
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="3px" />
-</p>
-
 
 
 ## 👨‍💻 Developer Mode
