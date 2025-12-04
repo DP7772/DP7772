@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋, I'm Akash Maurya</h1>
+<h1 align="center">
+  Hi 👋, I'm Akash  
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&width=600&lines=Web+Developer;Front-End+Developer;JavaScript+Learner;Tech+Enthusiast;Always+Learning+New+Things">
+</p>
+
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dp7772" alt="dp7772" /></a> </p>
