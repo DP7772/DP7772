@@ -67,11 +67,12 @@
 
 ---
 
-## 🌍 Creativity in Motion
+## 🚀 Daily Code Energy
 
 <p align="center">
-  <img src="https://readme-animated-assets.s3.ap-south-1.amazonaws.com/planet-rotate.gif" width="300" />
+  <img src="https://progress-bar.dev/90/?title=Consistency&width=500&color=0D1117&suffix=%" />
 </p>
+
 
 
 ---
