@@ -65,11 +65,14 @@
 </p>
 
 
+<!-- 🟩 Matrix Code Rain (High-quality, no-imgur) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rohit-chouhan/Animated-GIFs/main/abstract/plasma-orb.gif" width="300" alt="Plasma Orb" />
+  <img 
+    src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" 
+    width="500" 
+    alt="Matrix animation" 
+  />
 </p>
-<p align="center"><sub>🔮 A glowing orb of infinite creativity.</sub></p>
-
 
 
 
