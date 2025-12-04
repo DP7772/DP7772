@@ -65,38 +65,67 @@
 </p>
 
 
-## 🌌 Cosmic Coding Nebula
+## 🚀 Rocket Launch Animation
 
 <p align="center">
-  <svg width="100%" height="300" viewBox="0 0 800 300" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
-        <stop offset="0%" stop-color="#00f7ff">
-          <animate attributeName="stop-color" values="#00f7ff;#ff00f7;#00ff7f;#00f7ff" dur="10s" repeatCount="indefinite"/>
-        </stop>
-        <stop offset="100%" stop-color="#ff00f7">
-          <animate attributeName="stop-color" values="#ff00f7;#00f7ff;#00ff7f;#ff00f7" dur="10s" repeatCount="indefinite"/>
-        </stop>
-      </linearGradient>
-    </defs>
-    <rect x="0" y="0" width="800" height="300" fill="url(#grad)" />
-    <circle cx="150" cy="100" r="30" fill="#ffffff" opacity="0.5">
-      <animate attributeName="cx" values="150;650;150" dur="20s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="100;200;100" dur="25s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="400" cy="150" r="40" fill="#ff0" opacity="0.4">
-      <animate attributeName="cx" values="400;700;400" dur="30s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="150;50;150" dur="35s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="600" cy="50" r="25" fill="#0f0" opacity="0.3">
-      <animate attributeName="cx" values="600;200;600" dur="28s" repeatCount="indefinite"/>
-      <animate attributeName="cy" values="50;250;50" dur="33s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
+<svg width="120" height="300" viewBox="0 0 120 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    /* Rocket floating animation */
+    .rocket {
+      animation: float 2s ease-in-out infinite alternate;
+    }
+
+    @keyframes float {
+      0% { transform: translateY(0px); }
+      100% { transform: translateY(-12px); }
+    }
+
+    /* Flame animation */
+    .flame {
+      animation: flame 0.15s infinite alternate;
+      transform-origin: center top;
+    }
+
+    @keyframes flame {
+      0% { transform: scaleY(1); opacity: 0.8; }
+      100% { transform: scaleY(1.3); opacity: 1; }
+    }
+
+    /* Smoke animation */
+    .smoke {
+      animation: smoke 2s infinite;
+    }
+
+    @keyframes smoke {
+      0% { opacity: 0.8; transform: translateY(0) scale(1); }
+      100% { opacity: 0; transform: translateY(50px) scale(1.8); }
+    }
+  </style>
+
+  <!-- Rocket Body -->
+  <g class="rocket">
+    <rect x="50" y="60" width="20" height="90" fill="#e3e3e3" rx="10"/>
+    <polygon points="60,20 35,60 85,60" fill="#ffffff" stroke="#00d4ff" stroke-width="2"/>
+    <rect x="45" y="85" width="30" height="25" fill="#00d4ff" rx="5"/>
+    <polygon points="50,150 30,180 50,180" fill="#777"/>
+    <polygon points="70,150 70,180 90,180" fill="#777"/>
+  </g>
+
+  <!-- Flame -->
+  <g class="flame">
+    <polygon points="60,150 40,200 80,200" fill="#ff4500"/>
+    <polygon points="60,150 50,200 70,200" fill="#ffd200"/>
+  </g>
+
+  <!-- Smoke -->
+  <circle class="smoke" cx="60" cy="210" r="10" fill="#cfcfcf"/>
+  <circle class="smoke" cx="50" cy="230" r="8" fill="#cfcfcf"/>
+  <circle class="smoke" cx="70" cy="250" r="12" fill="#cfcfcf"/>
+</svg>
 </p>
 
 <p align="center">
-  <em>🌠 Floating through code like stars in a nebula…</em>
+<em>💻 Every line of code lifts your rocket a little higher… 🚀</em>
 </p>
 
 
