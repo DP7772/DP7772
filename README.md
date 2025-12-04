@@ -1,19 +1,19 @@
-<!-- Animated GitHub Profile README -->
+<!-- Fully Animated GitHub Profile README -->
 
 <h1 align="center">Hi there 👋, I'm Akash Maurya</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<!-- Typing animation for your skills -->
+<!-- Typing animation for dynamic intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&width=600&lines=Frontend+Developer;React+Learner;MySQL+Explorer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&width=600&lines=Frontend+Developer;React+Learner;MySQL+Explorer;Always+Learning+New+Things" />
 </p>
 
-<!-- Wave banner -->
+<!-- Wave animation banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:fc00ff&height=150&section=header&text=Welcome+to+My+GitHub+Profile&fontSize=30&fontColor=ffffff" />
 </p>
 
-<!-- Profile Trophy -->
+<!-- GitHub Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=dp7772&theme=radical" alt="dp7772" />
@@ -45,7 +45,7 @@
 - 💬 Ask me about **HTML, CSS, CSS3, JavaScript, Bootstrap**  
 - ⚡ Fun fact: **I think imagination is the best tool for a coder**  
 
-<!-- Languages & Tools -->
+<!-- Animated Tech Stack -->
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,mysql,git,github,vscode" />
@@ -53,21 +53,21 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dp7772&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp7772&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dp7772&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp7772&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-<!-- GitHub Streak -->
+<!-- Streak Animation -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dp7772&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dp7772&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- Cute GIF / Developer Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
 </p>
 
 <!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dp7772&label=Profile+Views&color=blue&style=flat" />
-</p>
-
-<!-- Footer animation -->
-<p align="center">
-  <img src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="600"/>
 </p>
