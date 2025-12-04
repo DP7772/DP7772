@@ -67,9 +67,10 @@
 
 ---
 
-## 🔥 GitHub Streak Stats
+## 🌍 Creativity in Motion
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akash__dp&theme=react&hide_border=true&background=0D1117" />
+  <img src="https://readme-animated-assets.s3.ap-south-1.amazonaws.com/planet-rotate.gif" width="300" />
 </p>
 
 
