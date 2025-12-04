@@ -1,43 +1,73 @@
-<h1 align="center">
-  Hi 👋, I'm Akash  
-</h1>
+<!-- Animated GitHub Profile README -->
 
+<h1 align="center">Hi there 👋, I'm Akash Maurya</h1>
+<h3 align="center">A passionate Frontend Developer from India</h3>
+
+<!-- Typing animation for your skills -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:fc00ff&height=200&section=header&text=Welcome+to+My+GitHub&fontSize=40&fontColor=ffffff" />
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&width=600&lines=Frontend+Developer;React+Learner;MySQL+Explorer;Always+Learning+New+Things" />
 </p>
 
+<!-- Wave banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:fc00ff&height=150&section=header&text=Welcome+to+My+GitHub+Profile&fontSize=30&fontColor=ffffff" />
+</p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dp7772" alt="dp7772" /></a> </p>
+<!-- Profile Trophy -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dp7772&theme=radical" alt="dp7772" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://twitter.com/akash__dp" target="blank"><img src="https://img.shields.io/twitter/follow/akash__dp?logo=twitter&style=for-the-badge" alt="akash__dp" /></a> </p>
+<!-- Socials -->
+<h3 align="center">Connect with me</h3>
+<p align="center">
+  <a href="https://twitter.com/akash__dp" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/akash__dp?logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/akash-maurya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Akash-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://instagram.com/akash__dp" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Akash-E4405F?style=for-the-badge&logo=instagram" alt="Instagram" />
+  </a>
+  <a href="mailto:am0807160@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Akash-D14836?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **Netflix Clone**
+<!-- About Me -->
+<h3 align="left">About Me</h3>
+- 🔭 I’m currently working on **Netflix Clone**  
+- 🌱 I’m currently learning **MySQL, React, Tailwind**  
+- 👨‍💻 All of my projects are available at [My Portfolio](https://akashmaurya.netlify.app)  
+- 💬 Ask me about **HTML, CSS, CSS3, JavaScript, Bootstrap**  
+- ⚡ Fun fact: **I think imagination is the best tool for a coder**  
 
-- 🌱 I’m currently learning **MySQL, React, Tailwind**
-
-- 👨‍💻 All of my projects are available at [https://akashmaurya.netlify.app](https://akashmaurya.netlify.app)
-
-- 💬 Ask me about **HTML, CSS, CSS3,JavaScript, Bootstrap**
-
-- 📫 How to reach me **am0807160@gmail.com**
-
-- ⚡ Fun fact **I Think Imagination Is Best For Coder**
-
-<h3 align="left">Connect with me:</h3>
+<!-- Languages & Tools -->
+<h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
-<a href="https://twitter.com/akash__dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash__dp" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akash maurya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash maurya" height="30" width="40" /></a>
-<a href="https://instagram.com/akash__dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash__dp" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,tailwind,mysql,git,github,vscode" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dp7772&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp7772&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dp7772&show_icons=true&locale=en&layout=compact" alt="dp7772" /></p>
+<!-- GitHub Streak -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dp7772&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dp7772&show_icons=true&locale=en" alt="dp7772" /></p>
+<!-- Visitor Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dp7772&label=Profile+Views&color=blue&style=flat" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dp7772&" alt="dp7772" /></p>
+<!-- Footer animation -->
+<p align="center">
+  <img src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" width="600"/>
+</p>
