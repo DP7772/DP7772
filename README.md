@@ -64,11 +64,12 @@
        alt="snake animation" />
 </p>
 
-## 🚀 Rocket Launch
+## ✨ Typing Animation Example
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="Rocket Launch" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&pause=1000&color=00F7FF&center=true&width=600&lines=ITZ+AKASH" alt="Typing Animation"/>
 </p>
+
 
 
 
