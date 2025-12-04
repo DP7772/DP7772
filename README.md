@@ -68,46 +68,7 @@
 ## 🌿 Relax & Code
 
 <p align="center">
-<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <!-- Gradient Background -->
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00c3ff">
-        <animate attributeName="stop-color" values="#00c3ff;#ffff1c;#ff6ec7;#00c3ff" dur="15s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" stop-color="#ffff1c">
-        <animate attributeName="stop-color" values="#ffff1c;#ff6ec7;#00c3ff;#ffff1c" dur="15s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-
-  <!-- Background Rectangle -->
-  <rect width="800" height="200" fill="url(#grad)" />
-
-  <!-- Floating Circle 1 -->
-  <circle cx="100" cy="50" r="20" fill="#ffffff" opacity="0.5">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 50; 0 0" dur="6s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Floating Circle 2 -->
-  <circle cx="300" cy="80" r="30" fill="#ffde7d" opacity="0.4">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -40; 0 0" dur="8s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Floating Circle 3 -->
-  <circle cx="600" cy="60" r="25" fill="#ff6ec7" opacity="0.3">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 60; 0 0" dur="10s" repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Floating Circle 4 -->
-  <circle cx="400" cy="150" r="15" fill="#00ff7f" opacity="0.5">
-    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -30; 0 0" dur="7s" repeatCount="indefinite"/>
-  </circle>
-</svg>
-</p>
-
-<p align="center">
-<em>🌌 Calm coding vibes… let the shapes flow while you code 🚀</em>
+  <img src="https://media.giphy.com/media/3o6ZsZt8LZ0oNYnU8Q/giphy.gif" width="600" alt="Relaxing Animation" />
 </p>
 
 
