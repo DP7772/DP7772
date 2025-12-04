@@ -3,7 +3,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&width=600&lines=Web+Developer;Front-End+Developer;JavaScript+Learner;Tech+Enthusiast;Always+Learning+New+Things">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:fc00ff&height=200&section=header&text=Welcome+to+My+GitHub&fontSize=40&fontColor=ffffff" />
+
 </p>
 
 <h3 align="center">A passionate frontend developer from India</h3>
