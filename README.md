@@ -65,13 +65,36 @@
 </p>
 
 
-## 👨‍💻 Developer Mode
+## ⚛️ Physics Playground
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"/>
+  <em>Random motion, physics vibes, and playful experiments — because code and physics love to dance.</em>
 </p>
 
----
+<!-- Orbiting planet (represents ideas orbiting into code) -->
+<p align="center">
+  <img src="https://i.imgur.com/vz9WkW1.gif" width="320" alt="Orbiting planet animation" />
+</p>
+<p align="center"><sub>🌍 Orbiting ideas — build, iterate, repeat.</sub></p>
+
+<!-- Particle field (represents creativity & emergent behavior) -->
+<p align="center">
+  <img src="https://i.imgur.com/TeQXWj2.gif" width="520" alt="Particle field animation" />
+</p>
+<p align="center"><sub>✨ Particle playground — tiny interactions building something huge.</sub></p>
+
+<!-- Rocket launch (represents projects taking off) -->
+<p align="center">
+  <img src="https://i.imgur.com/3i1QFdz.gif" width="260" alt="Rocket launch animation" />
+</p>
+<p align="center"><sub>🚀 Launch mode — ship your experiments to the world.</sub></p>
+
+<!-- Pulsing energy circle (represents focus & rhythm) -->
+<p align="center">
+  <img src="https://i.imgur.com/NSu1H3x.gif" width="160" alt="Pulsing energy animation" />
+</p>
+<p align="center"><sub>🔆 Pulse — consistency and momentum over time.</sub></p>
+
 
 ## 🚀 Featured Projects
 
