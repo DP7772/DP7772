@@ -65,48 +65,49 @@
 </p>
 
 
-## 🚀 Rocket Launch Animation
+## 🌿 Relax & Code
 
 <p align="center">
-<svg width="120" height="300" viewBox="0 0 120 300" xmlns="http://www.w3.org/2000/svg">
-  <!-- Rocket Body -->
-  <rect x="50" y="60" width="20" height="90" fill="#e3e3e3" rx="10"/>
-  <polygon points="60,20 35,60 85,60" fill="#ffffff" stroke="#00d4ff" stroke-width="2"/>
-  <rect x="45" y="85" width="30" height="25" fill="#00d4ff" rx="5"/>
-  <polygon points="50,150 30,180 50,180" fill="#777"/>
-  <polygon points="70,150 70,180 90,180" fill="#777"/>
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Gradient Background -->
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00c3ff">
+        <animate attributeName="stop-color" values="#00c3ff;#ffff1c;#ff6ec7;#00c3ff" dur="15s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#ffff1c">
+        <animate attributeName="stop-color" values="#ffff1c;#ff6ec7;#00c3ff;#ffff1c" dur="15s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
 
-  <!-- Flame -->
-  <polygon points="60,150 40,200 80,200" fill="#ff4500">
-    <animateTransform attributeName="transform" type="scale" values="1 1;1 1.3;1 1" dur="0.3s" repeatCount="indefinite" additive="sum" />
-  </polygon>
-  <polygon points="60,150 50,200 70,200" fill="#ffd200">
-    <animateTransform attributeName="transform" type="scale" values="1 1;1 1.3;1 1" dur="0.3s" repeatCount="indefinite" additive="sum" />
-  </polygon>
+  <!-- Background Rectangle -->
+  <rect width="800" height="200" fill="url(#grad)" />
 
-  <!-- Smoke -->
-  <circle cx="60" cy="210" r="10" fill="#cfcfcf">
-    <animate attributeName="cy" values="210;260;210" dur="2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.8;0;0.8" dur="2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="50" cy="230" r="8" fill="#cfcfcf">
-    <animate attributeName="cy" values="230;280;230" dur="2.2s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.7;0;0.7" dur="2.2s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="70" cy="250" r="12" fill="#cfcfcf">
-    <animate attributeName="cy" values="250;300;250" dur="2.4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;0;0.6" dur="2.4s" repeatCount="indefinite"/>
+  <!-- Floating Circle 1 -->
+  <circle cx="100" cy="50" r="20" fill="#ffffff" opacity="0.5">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 50; 0 0" dur="6s" repeatCount="indefinite"/>
   </circle>
 
-  <!-- Rocket Floating -->
-  <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="2s" repeatCount="indefinite"/>
-  </g>
+  <!-- Floating Circle 2 -->
+  <circle cx="300" cy="80" r="30" fill="#ffde7d" opacity="0.4">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -40; 0 0" dur="8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Floating Circle 3 -->
+  <circle cx="600" cy="60" r="25" fill="#ff6ec7" opacity="0.3">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 60; 0 0" dur="10s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Floating Circle 4 -->
+  <circle cx="400" cy="150" r="15" fill="#00ff7f" opacity="0.5">
+    <animateTransform attributeName="transform" type="translate" values="0 0; 0 -30; 0 0" dur="7s" repeatCount="indefinite"/>
+  </circle>
 </svg>
 </p>
 
 <p align="center">
-<em>💻 Your code powers the rocket launch! 🚀</em>
+<em>🌌 Calm coding vibes… let the shapes flow while you code 🚀</em>
 </p>
 
 
