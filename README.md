@@ -65,8 +65,9 @@
 </p>
 
 
-<!-- 6. Digital Matrix Rain -->
-<p align="center"><img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="520" alt="Matrix Rain" /></p><p align="center"><sub>💻 Code raining down like cosmic data streams.</sub></p>
+<!-- 3. Black Hole Animation -->
+<p align="center"><img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" alt="Black Hole Animation" /></p><p align="center"><sub>🌀 Pulling scattered thoughts into one singularity.</sub></p>
+
 
 
 
