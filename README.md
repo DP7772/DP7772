@@ -1,23 +1,24 @@
 <h1 align="center">Hi there 👋, I'm Akash Maurya</h1>
 <h3 align="center">A passionate Frontend Developer from India</h3>
 
-<!-- Typing Animation for Dynamic Intro -->
+<!-- High-quality Wave Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&width=600&lines=Frontend+Developer;React+Learner;MySQL+Explorer;Always+Learning+New+Things;C+Programmer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome+to+My+GitHub+Profile&fontSize=35&fontColor=ffffff&animation=twist" />
 </p>
 
-<!-- Wave Animation Banner -->
+<!-- Typing Animation for Dynamic Intro -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00dbde,100:fc00ff&height=150&section=header&text=Welcome+to+My+GitHub+Profile&fontSize=30&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&width=650&lines=Frontend+Developer;React+Learner;MySQL+Explorer;Always+Learning+New+Things;C+Programmer" />
 </p>
 
 <!-- Profile Trophy -->
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dp7772&theme=radical" alt="dp7772" />
+    <img src="https://github-profile-trophy.vercel.app/?username=dp7772&theme=radical" alt="GitHub Trophies" />
   </a>
 </p>
 
+<!-- Socials -->
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="https://twitter.com/akash__dp" target="_blank">
@@ -34,33 +35,40 @@
   </a>
 </p>
 
+<!-- About Me - Animated Typing -->
 <h3 align="left">💡 About Me</h3>
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&width=600&lines=🔭+I%E2%80%99m+currently+working+on+React+Animation+Website;🌱+I%E2%80%99m+currently+learning+MySQL,+React,+Tailwind;👨‍💻+All+of+my+projects+are+available+at+My+Portfolio;💬+Ask+me+about+HTML,+CSS,+CSS3,+JavaScript,+Bootstrap,+C;⚡+Fun+fact:+I+think+imagination+is+the+best+tool+for+a+coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F7FF&width=700&lines=🔭+I%E2%80%99m+currently+working+on+React+Animation+Website;🌱+I%E2%80%99m+currently+learning+MySQL,+React,+Tailwind;👨‍💻+All+of+my+projects+are+available+at+My+Portfolio;💬+Ask+me+about+HTML,+CSS,+CSS3,+JavaScript,+Bootstrap,+C;⚡+Fun+fact:+I+think+imagination+is+the+best+tool+for+a+coder" />
 </p>
 
+<!-- Animated Tech Stack -->
 <h3 align="left">🛠️ Languages & Tools</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nextjs,mysql,c,git,github,vscode,tailwind" />
 </p>
 
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dp7772&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dp7772&show_icons=true&theme=radical&count_private=true&hide_title=false" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp7772&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+<!-- GitHub Streak -->
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dp7772&theme=radical" alt="GitHub Streak" />
 </p>
 
+<!-- Cute Developer GIF -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
 </p>
 
+<!-- Visitor Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dp7772&label=Profile+Views&color=blue&style=flat" />
 </p>
 
+<!-- Projects Showcase -->
 <h3 align="left">🚀 Projects</h3>
 <p align="left">
   <a href="https://akashmaurya.netlify.app/react-animation-website" target="_blank">
