@@ -64,23 +64,10 @@
        alt="snake animation" />
 </p>
 
-## 📊 GitHub Stats & Achievements
+## 🚀 Rocket Launch
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=dp7772&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dp7772&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dp7772&theme=radical" alt="GitHub Trophies" />
-  </a>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="400" alt="Rocket Launch" />
 </p>
 
 
