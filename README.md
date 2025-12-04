@@ -65,8 +65,10 @@
 </p>
 
 
-<!-- 3. Black Hole Animation -->
-<p align="center"><img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="350" alt="Black Hole Animation" /></p><p align="center"><sub>🌀 Pulling scattered thoughts into one singularity.</sub></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rohit-chouhan/Animated-GIFs/main/abstract/plasma-orb.gif" width="300" alt="Plasma Orb" />
+</p>
+<p align="center"><sub>🔮 A glowing orb of infinite creativity.</sub></p>
 
 
 
