@@ -65,11 +65,40 @@
 </p>
 
 
-## 🚀 Launching Code Into the Stratosphere
+## 🌌 Cosmic Coding Nebula
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DP7772/animated-assets/main/rocket-launch.svg" width="300" />
+  <svg width="100%" height="300" viewBox="0 0 800 300" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stop-color="#00f7ff">
+          <animate attributeName="stop-color" values="#00f7ff;#ff00f7;#00ff7f;#00f7ff" dur="10s" repeatCount="indefinite"/>
+        </stop>
+        <stop offset="100%" stop-color="#ff00f7">
+          <animate attributeName="stop-color" values="#ff00f7;#00f7ff;#00ff7f;#ff00f7" dur="10s" repeatCount="indefinite"/>
+        </stop>
+      </linearGradient>
+    </defs>
+    <rect x="0" y="0" width="800" height="300" fill="url(#grad)" />
+    <circle cx="150" cy="100" r="30" fill="#ffffff" opacity="0.5">
+      <animate attributeName="cx" values="150;650;150" dur="20s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="100;200;100" dur="25s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="400" cy="150" r="40" fill="#ff0" opacity="0.4">
+      <animate attributeName="cx" values="400;700;400" dur="30s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="150;50;150" dur="35s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="600" cy="50" r="25" fill="#0f0" opacity="0.3">
+      <animate attributeName="cx" values="600;200;600" dur="28s" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="50;250;50" dur="33s" repeatCount="indefinite"/>
+    </circle>
+  </svg>
 </p>
+
+<p align="center">
+  <em>🌠 Floating through code like stars in a nebula…</em>
+</p>
+
 
 
 
