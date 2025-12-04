@@ -53,7 +53,7 @@
 ## 🛠️ Tech Stack (Animated Icons)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,bootstrap,tailwind,mysql,c,git,github,vscode&theme=light" height="85"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,c,git,github,vscode&theme=light" height="85"/>
 </p>
 
 ---
