@@ -69,65 +69,45 @@
 
 <p align="center">
 <svg width="120" height="300" viewBox="0 0 120 300" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    /* Rocket floating animation */
-    .rocket {
-      animation: float 2s ease-in-out infinite alternate;
-    }
-
-    @keyframes float {
-      0% { transform: translateY(0px); }
-      100% { transform: translateY(-12px); }
-    }
-
-    /* Flame animation */
-    .flame {
-      animation: flame 0.15s infinite alternate;
-      transform-origin: center top;
-    }
-
-    @keyframes flame {
-      0% { transform: scaleY(1); opacity: 0.8; }
-      100% { transform: scaleY(1.3); opacity: 1; }
-    }
-
-    /* Smoke animation */
-    .smoke {
-      animation: smoke 2s infinite;
-    }
-
-    @keyframes smoke {
-      0% { opacity: 0.8; transform: translateY(0) scale(1); }
-      100% { opacity: 0; transform: translateY(50px) scale(1.8); }
-    }
-  </style>
-
   <!-- Rocket Body -->
-  <g class="rocket">
-    <rect x="50" y="60" width="20" height="90" fill="#e3e3e3" rx="10"/>
-    <polygon points="60,20 35,60 85,60" fill="#ffffff" stroke="#00d4ff" stroke-width="2"/>
-    <rect x="45" y="85" width="30" height="25" fill="#00d4ff" rx="5"/>
-    <polygon points="50,150 30,180 50,180" fill="#777"/>
-    <polygon points="70,150 70,180 90,180" fill="#777"/>
-  </g>
+  <rect x="50" y="60" width="20" height="90" fill="#e3e3e3" rx="10"/>
+  <polygon points="60,20 35,60 85,60" fill="#ffffff" stroke="#00d4ff" stroke-width="2"/>
+  <rect x="45" y="85" width="30" height="25" fill="#00d4ff" rx="5"/>
+  <polygon points="50,150 30,180 50,180" fill="#777"/>
+  <polygon points="70,150 70,180 90,180" fill="#777"/>
 
   <!-- Flame -->
-  <g class="flame">
-    <polygon points="60,150 40,200 80,200" fill="#ff4500"/>
-    <polygon points="60,150 50,200 70,200" fill="#ffd200"/>
-  </g>
+  <polygon points="60,150 40,200 80,200" fill="#ff4500">
+    <animateTransform attributeName="transform" type="scale" values="1 1;1 1.3;1 1" dur="0.3s" repeatCount="indefinite" additive="sum" />
+  </polygon>
+  <polygon points="60,150 50,200 70,200" fill="#ffd200">
+    <animateTransform attributeName="transform" type="scale" values="1 1;1 1.3;1 1" dur="0.3s" repeatCount="indefinite" additive="sum" />
+  </polygon>
 
   <!-- Smoke -->
-  <circle class="smoke" cx="60" cy="210" r="10" fill="#cfcfcf"/>
-  <circle class="smoke" cx="50" cy="230" r="8" fill="#cfcfcf"/>
-  <circle class="smoke" cx="70" cy="250" r="12" fill="#cfcfcf"/>
+  <circle cx="60" cy="210" r="10" fill="#cfcfcf">
+    <animate attributeName="cy" values="210;260;210" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;0;0.8" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="50" cy="230" r="8" fill="#cfcfcf">
+    <animate attributeName="cy" values="230;280;230" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0;0.7" dur="2.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="70" cy="250" r="12" fill="#cfcfcf">
+    <animate attributeName="cy" values="250;300;250" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0;0.6" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- Rocket Floating -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -12;0 0" dur="2s" repeatCount="indefinite"/>
+  </g>
 </svg>
 </p>
 
 <p align="center">
-<em>💻 Every line of code lifts your rocket a little higher… 🚀</em>
+<em>💻 Your code powers the rocket launch! 🚀</em>
 </p>
-
 
 
 
