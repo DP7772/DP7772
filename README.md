@@ -56,11 +56,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,c,git,github,vscode&theme=light" height="85"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://i.imgur.com/vz9WkW1.gif" width="260" />
-</p>
 
 
 
