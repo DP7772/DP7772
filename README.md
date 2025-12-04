@@ -68,7 +68,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61dafb&center=true&width=600&lines=IT'S + AKASH;I’m not here to be average, I’m here to be awesome;" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=61dafb&center=true&width=600&lines=IT'S + AKASH;I'm not here to be average,I'm here to be awesome;" alt="Typing Animation"/>
 </p>
 
 
