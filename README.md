@@ -67,11 +67,11 @@
 
 ---
 
-## 🔥 GitHub Streaks
-
+## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akashmaurya94&theme=react&hide_border=false&background=0D1117&ring=00E0FF&fire=00E0FF&currStreakLabel=00E0FF" />
+  <img src="https://streak-stats.demolab.com?user=akashmaurya76&theme=react&hide_border=true&background=0D1117" />
 </p>
+
 
 ---
 
