@@ -67,7 +67,7 @@
 ## ✨ Typing Animation Example
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=00F7FF&center=true&width=600&lines=IT'S+AKASH" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&pause=1000&color=00F7FF&center=true&width=400&lines=IT'S+AKASH" alt="Typing Animation"/>
 </p>
 
 
