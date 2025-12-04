@@ -69,7 +69,7 @@
 
 ## 🔥 GitHub Streak Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akashmaurya76&theme=react&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=akash__dp&theme=react&hide_border=true&background=0D1117" />
 </p>
 
 
