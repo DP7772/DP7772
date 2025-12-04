@@ -65,11 +65,6 @@
 </p>
 
 <p align="center">
-  <!-- Animated Matrix Code Rain -->
-  <img src="https://i.imgur.com/2LSMCmI.gif" width="500" alt="Matrix animation" />
-</p>
-
-<p align="center">
   <!-- Rotating React Logo Animation -->
   <img src="https://raw.githubusercontent.com/gururise/React-icons-animated/master/dist/react.svg" width="120" />
 </p>
