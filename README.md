@@ -65,14 +65,57 @@
 </p>
 
 
-<!-- 🟩 Matrix Code Rain (High-quality, no-imgur) -->
+## 🚀 Launching Ideas Into Code
+
+<!-- Rocket Launch Animation -->
 <p align="center">
   <img 
-    src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" 
-    width="500" 
-    alt="Matrix animation" 
+    src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" 
+    width="420" 
+    alt="Rocket Launch Coding" 
   />
 </p>
+
+<p align="center"><em>Every line of code pushes the rocket a little higher... 🌌</em></p>
+
+---
+
+<!-- Rocket Flying Loop -->
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/Y4pAQv58ETJgRwoLxj/giphy.gif" 
+    width="300" 
+    alt="Flying Rocket" 
+  />
+</p>
+
+<p align="center"><sub>Keep building. Keep learning. Keep flying. 🚀</sub></p>
+
+---
+
+<!-- Lottie Animated Rocket (high-quality JSON GIF) -->
+<p align="center">
+  <img 
+    src="https://assets9.lottiefiles.com/packages/lf20_zzrJqX.json.gif" 
+    width="220" 
+    alt="Lottie Rocket Animation" 
+  />
+</p>
+
+<p align="center"><sub>Let your creativity take off.</sub></p>
+
+---
+
+<!-- Neon Trail Divider (no Imgur) -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/rohit-chouhan/Animated-GIFs/main/divider/neon-divider.gif" 
+    width="100%" 
+    height="4px" 
+    alt="Neon Line" 
+  />
+</p>
+
 
 
 
