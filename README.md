@@ -57,7 +57,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61dafb&center=true&width=800&lines=ITZ+AKASH;" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&color=61dafb&center=true&width=800&lines=Naam+toh+suna+hoga…;AK⚔️;+AKASH🔥" alt="Typing Animation"/>
 </p>
 
 
@@ -86,13 +86,7 @@
 
 ---
 
-## 👀 Visitor Count
+## 👀 Trophy Section
 
-<p align="left"> <a href="https://github.com/akash__dp/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash__dp" alt="akash__dp" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dp7772" alt="dp7772" /></a> </p>
 
----
-
-<!-- FOOTER BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AkashMaurya9X/global-assets/main/banners/footer-wave.gif" width="100%" />
-</p>
