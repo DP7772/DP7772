@@ -70,12 +70,8 @@
 
 <p align="center">
 
-<a href="https://akashmaurya.netlify.app/react-animation-website" target="_blank">
-  <img src="https://img.shields.io/badge/React%20Animation%20Website-black?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
-
-<a href="https://akashmaurya.netlify.app/weather-app" target="_blank">
-  <img src="https://img.shields.io/badge/Weather%20App-00A2FF?style=for-the-badge&logo=javascript&logoColor=white" />
+<a href="https://electronhubsamsung.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/E%20Commerce-00A2FF?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
 
 <a href="https://akashmaurya.netlify.app" target="_blank">
