@@ -19,24 +19,13 @@
 <p align="center">
 
 <!-- LinkedIn -->
-<a href="https://linkedin.com/in/akash-maurya" target="_blank">
-  <img src="https://raw.githubusercontent.com/AkashMaurya9X/global-assets/main/social/linkedin-animated.svg" width="65" />
-</a>
+<a href="https://linkedin.com/in/akash-maurya7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akash-maurya7" height="30" width="40" /></a>
 
 <!-- Instagram -->
-<a href="https://instagram.com/akash__dp" target="_blank">
-  <img src="https://raw.githubusercontent.com/AkashMaurya9X/global-assets/main/social/instagram-animated.svg" width="65" />
-</a>
+<a href="https://instagram.com/akash__dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akash__dp" height="30" width="40" /></a>
 
 <!-- Twitter -->
-<a href="https://twitter.com/akash__dp" target="_blank">
-  <img src="https://raw.githubusercontent.com/AkashMaurya9X/global-assets/main/social/twitter-animated.svg" width="65" />
-</a>
-
-<!-- Gmail -->
-<a href="mailto:am0807160@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/AkashMaurya9X/global-assets/main/social/email-animated.svg" width="65" />
-</a>
+<a href="https://twitter.com/akash__dp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akash__dp" height="30" width="40" /></a>
 
 </p>
 
