@@ -88,9 +88,7 @@
 
 ## 👀 Visitor Count
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akashmaurya94&label=Profile+Visitors&color=00e0ff&style=for-the-badge" />
-</p>
+<p align="left"> <a href="https://github.com/akash__dp/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash__dp" alt="akash__dp" /></a> </p>
 
 ---
 
