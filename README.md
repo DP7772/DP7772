@@ -57,7 +57,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&color=61dafb&center=true&width=800&lines=Naam+toh+suna+hoga…;AK⚔️;+AKASH🔥" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=500&color=61dafb&center=true&width=800&lines=Naam+toh+suna+hoga…;Coming+Straight+From+The+Legend;AK...;+AKASH+MAURYA+WITH+💖" alt="Typing Animation"/>
 </p>
 
 
@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/Weather%20App-00A2FF?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
 
-<a href="https://akashmaurya.netlify.app/portfolio" target="_blank">
+<a href="https://akashmaurya.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-ff007f?style=for-the-badge&logo=html5&logoColor=white" />
 </a>
 
