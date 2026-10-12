@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Akash Maurya</h1>
-<h3 align="center">A Passionate Frontend Developer | React • Next.js • UI Animations</h3>
+<h3 align="center">A Passionate Web Developer and AI Automation| React • Next.js • UI Animations</h3>
 
 <!-- React-style typing animation -->
 <p align="center">
@@ -70,7 +70,7 @@
 
 <p align="center">
 
-<a href="https://electronhubsamsung.netlify.app" target="_blank">
+<a href="https://civicpulse.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/E%20Commerce-00A2FF?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
 
