@@ -70,7 +70,7 @@
 
 <p align="center">
 
-<a href="https://civicpulse.netlify.app" target="_blank">
+<a href="https://civicpulsegecd.netlify.app" target="_blank">
   <img src="https://img.shields.io/badge/E%20Commerce-00A2FF?style=for-the-badge&logo=javascript&logoColor=white" />
 </a>
 
